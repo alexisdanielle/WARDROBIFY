@@ -1,20 +1,10 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
 
-# Run and deploy your AI Studio app
+# WARDROBIFY 
 
-This contains everything you need to run your app locally.
+An AI Stylist that helps you scan and classify your wardrobe. Don't know what to wear? Wardrobify is here for you! 
 
-View your app in AI Studio: https://ai.studio/apps/drive/1rpX4h2LuabnlDR7kc5rXpBKjNd7x2Ccw
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Features 
+1. Weather Checker -  make sure outfit matches the weather outside
+2. Closet Scanner - scan items in your wardrobe and it automatically classifies!
+3. AI Stylist - tell me the vibe and we'll style you!
+4. Wishlist - checks to see if what you want to buy has duplicates or is a new find! 
