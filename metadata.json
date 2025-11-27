@@ -1,0 +1,8 @@
+{
+  "name": "Chic & Cute Wardrobe",
+  "description": "A smart, aesthetic wardrobe organizer with AI styling, weather integration, and shopping assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
